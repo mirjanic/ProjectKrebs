@@ -1,1 +1,2 @@
 D:\GitHub\ProjectKrebs\ProjectKrebs\ProjectKrebs\bin\Debug\ProjectKrebs.exe.config
+d:\GitHub\ProjectKrebs\ProjectKrebs\bin\Debug\ProjectKrebs.exe.config
